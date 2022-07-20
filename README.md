@@ -2,11 +2,11 @@
 
 #File format:
 ● Columns:
-    ○ Name
-    ○ X_center
-    ○ Y_center
-    ○ Width
-    ○ Height
+     Name
+     X_center
+     Y_center
+     Width
+     Height
     
 #Every line contains the image name and the coordinates of a detected object’s bounding box.
 #The Pipeline action:
