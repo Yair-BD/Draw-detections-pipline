@@ -1,7 +1,8 @@
 ## Draw-detections-pipline
 
 # File format:
-Columns:
+
+* **Columns**
      - Name
      - X_center
      - Y_center
